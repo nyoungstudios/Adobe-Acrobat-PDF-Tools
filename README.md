@@ -14,4 +14,5 @@ As for the Reverse Page Order scripts, they do not have any restrictions.
 
 ## Notes
 Tested on Adobe Acrobat Pro DC (as part of the Adobe Creative Cloud)\
-For the merge PDF scripts if the pages are different lengths, then it will just append the rest of the pages without alternating at the end.
+For the merge PDF scripts if the pages are different lengths, then it will just append the rest of the pages without alternating at the end.\
+All scripts create a new document rather than modifying the original documents.
