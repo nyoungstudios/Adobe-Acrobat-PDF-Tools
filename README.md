@@ -1,5 +1,5 @@
 # Adobe Acrobat PDF Tools
-I graduated from college and decided to digitize some of my school work instead of saving a hard copy. Unfortunately, my scanner can only scan onside at a time; therefore, merging the even and odd pages would be a highly time consuming and manual process. So I wrote these scripts to do it for me. These scripts are meant to be used with Adobe Acrobat.
+I graduated from college and decided to digitize some of my school work instead of saving a hard copy. Unfortunately, my scanner can only scan one side at a time; therefore, merging the even and odd pages would be a highly time consuming and manual process. So I wrote these scripts to do it for me. The Merge Two PDFs by alternating Odd and Reverse Even Pages is probably the most relavent script if you are scanning a book, journal, magazine, etc. since the even page numbers typically are scanned in backwards.
 
 ## Features
 * Merge Two PDFs by alternating Odd and Even Pages
