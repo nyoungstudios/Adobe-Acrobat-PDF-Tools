@@ -1,5 +1,7 @@
 # Adobe Acrobat PDF Tools
-I graduated from college and decided to digitize some of my school work instead of saving a hard copy. Unfortunately, my scanner can only scan one side at a time; therefore, merging the even and odd pages would be a highly time consuming and manual process. So I wrote these scripts to do it for me. The Merge Two PDFs by alternating Odd and Reverse Even Pages is probably the most relavent script if you are scanning a book, journal, magazine, etc. since the even page numbers typically are scanned in backwards.
+I graduated from college and decided to digitize some of my school work instead of saving a hard copy. Unfortunately, my scanner can only scan one side at a time; therefore, merging the even and odd pages would be a highly time consuming and manual process. So I wrote these scripts to do it for me. 
+
+The "Merge Two PDFs by alternating Odd and Reverse Even Pages" is probably the most relevent script if you are scanning a book, journal, magazine, etc. since the even page numbers typically are scanned in backwards.
 
 ## Features
 * Merge Two PDFs by alternating Odd and Even Pages
@@ -9,7 +11,7 @@ I graduated from college and decided to digitize some of my school work instead 
 
 ## How to install?
 1. Download the XmlData.zip of the [latest release](https://github.com/nyoungstudios/Adobe-Acrobat-PDF-Tools/releases), and unzip the folder.
-2. Open Adobe Acrobat, and open the Action Wizard tool
+2. Open Adobe Acrobat, and open the Action Wizard tool.
 3. Then, click the "Manage Custom Commands" tab.
 4. On the new popup window, click import and select the XML Documents you want to install.
 
@@ -19,6 +21,6 @@ If you are using either of the merge PDF scripts, make sure to close all PDF doc
 As for the Reverse Page Order scripts, they do not have any restrictions.
 
 ## Notes
-Tested on Adobe Acrobat Pro DC (as part of the Adobe Creative Cloud)\
+Tested on Adobe Acrobat Pro DC (as part of the Adobe Creative Cloud).\
 For the merge PDF scripts if the pages are different lengths, then it will just append the rest of the pages without alternating at the end.\
 All scripts create a new document rather than modifying the original documents.
