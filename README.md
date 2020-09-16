@@ -9,6 +9,7 @@ The "Merge Two PDFs by alternating Odd and Reverse Even Pages" is probably the m
 * Reverse Page Order of all Open PDFs
 * Reverse Page Order of Currently Focused (or selected) PDF
 * Create new PDF for each page of Currently Focused PDF
+* Closes all open PDFs without asking to save them
 
 ## How to install?
 1. Download the XmlData.zip of the [latest release](https://github.com/nyoungstudios/Adobe-Acrobat-PDF-Tools/releases), and unzip the folder.
