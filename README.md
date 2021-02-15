@@ -8,7 +8,8 @@ The "Merge Two PDFs by alternating Odd and Reverse Even Pages" is probably the m
 * Merge Two PDFs by alternating Odd and Reverse Even Pages
 * Reverse Page Order of all Open PDFs
 * Reverse Page Order of Currently Focused (or selected) PDF
-* Create new PDF for each page of Currently Focused PDF
+* Create new PDFs for each page of Currently Focused PDF
+* Create new two page PDFs starting with every other page of Currently Focused PDF
 * Closes all open PDFs without asking to save them
 
 ## How to install?
